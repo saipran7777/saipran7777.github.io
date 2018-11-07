@@ -4,9 +4,7 @@ title: Research
 permalink: /research
 ---
 
-<!-- [Curriculum Vitae](/assets/CV_2018.pdf) -->
-
-My research interests are:
+## Research Interests
 
 1. Connected and Autonomous Vehicles (CAVs)
 
@@ -15,3 +13,7 @@ My research interests are:
 3. Deep learning and machine learning
 
 4. Computer Vision
+
+## Research Articles / Conference Publications
+- Image Processing Techniques for Traffic Data Extraction from Aerial Imagery
+- Automation of Glass Fragmentation Analysis         

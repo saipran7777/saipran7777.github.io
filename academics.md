@@ -7,14 +7,13 @@ permalink: /academics
 # Education
 **Master of Science in Transportation Engineering**,     
 *Texas A & M University, College Station, Texas, USA*  
-Minor : Management Studies
-CGPA: NA
+CGPA: NA <br>
 Expected Graduation : 2020
 
 **Bachelor of Technology in Civil Engineering**,     
 *Indian Institute of Technology, Madras, India*  
-Minor : Management Studies
-CGPA: 8.44/10
+Minor : Management Studies <br>
+CGPA: 8.44/10 <br>
 Graduation : 2018
 
 # Coursework
@@ -28,6 +27,7 @@ Graduation : 2018
 - Intelligent Transportation Systems
 - Transportation Network Analysis
 - Street & Highway Design
+- Surveying
 
 
 #### Self Driving Car Technology

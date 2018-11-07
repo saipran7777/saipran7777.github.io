@@ -24,6 +24,3 @@ permalink: /projects
 *(Guide – Dr. Lelitha Devi)*
 - Detected traffic signal using background subtraction, color thresholding and shape filters
 -	Used CNN based architecture YOLO for Signal detection in Indian Scenario
-
-
-[Anxin Ma and Alexander Hartmaier]: https://doi.org/10.1080/14786435.2013.847290

@@ -4,51 +4,57 @@ title: Academics
 permalink: /academics
 ---
 
-I am a final year dual degree student in Indian Institute of Technology Madras.
-
 # Education
+**Master of Science in Transportation Engineering**,     
+*Texas A & M University, College Station, Texas, USA*  
+Minor : Management Studies
+CGPA: NA
+Expected Graduation : 2020
 
-**Dual Degree( B.Tech + M.Tech) in Metallurgical and Materials Engineering**,     
-*Indian Institute of Technology, Chennai, India*  
-Minor : Foundations of Physics
-CGPA: 8.80/10
+**Bachelor of Technology in Civil Engineering**,     
+*Indian Institute of Technology, Madras, India*  
+Minor : Management Studies
+CGPA: 8.44/10
+Graduation : 2018
 
-Expected to graduate by May 2019
-
-# Coursework in IIT Madras
+# Coursework
 
 
-#### Metallurgy and Material Science (Major)
+#### Transportation/Civil Engineering (Major)
 
-- Atomistic modeling of materials by [Satyesh Kumar Yadav](https://mme.iitm.ac.in/satyesh/index.html)
-- Computational materials engineering lab
-- Topics in nanomaterials
-- Materials in renewable energy technologies
-- Electronic materials, devices and fabrication
+- Traffic Engineering: Characteristics
+- Engineering & Planning Urban Transportation
+- Computer Applications in Traffic and Highway Engineering
+- Intelligent Transportation Systems
+- Transportation Network Analysis
+- Street & Highway Design
 
-#### Foundations of Physics (Minor)
 
-- Quantum Physics
-- Atomistic Modelling of Materials
-- Physics of materials
-- Classical Physics
+#### Self Driving Car Technology
 
-#### Deep Learning and Machine Learning
+- [Udacity Self Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+  - Computer Vision and Deep Learning
+  - Sensor Fusion, Localization, and Control
 
-- Machine learning for engineering and scientific applications
-- Neural networks and deep learning [(Coursera)](https://www.coursera.org/account/accomplishments/verify/HV745XB9VTX4)
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [(Coursera)](https://www.coursera.org/account/accomplishments/records/GEAUCE7W937J)
-- Introduction to data science in Python [(Coursera)](https://www.coursera.org/account/accomplishments/verify/RJG8TY5SE5JQ)
+#### Management Studies (Minor)
 
+  - Accounting & Finance for Engineers
+  - Marketing Management
+  - Principles of Management
 
 #### Algorithms & Computing
 
-- Data structures and algorithms
-- Graph theory and its applications in process design
-- Fundamentals of operations research
+- Computer Methods in Civil Engineering
+- Construction Software Lab
+- Computational Engineering
 
 #### Mathematics
 
 - Probability, Statistics and Stochastic Processes
 - Differential Equations
-- Calculus
+- Calculus - Function of Single and Several Variables
+
+#### Other Courses
+- Discovering Creativity
+- Principles of Economics
+- Technology and Public Policy

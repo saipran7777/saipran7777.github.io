@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects
 ---
@@ -20,9 +20,9 @@ permalink: /projects
 -	Otsu thresholding, edge detection, and morphological operations were implemented for counting
 -	Support vector machine was used for classification of vehicles into LMV, HMV, and TW
 <center>
-<img style="max-width:200px;max-height:200px;" class="home" src="/assets/aerial_0.png" alt="Me">
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/aerial_0.png" alt="Me">
 <br><br>
-<img style="max-width:200px;max-height:200px;" class="home" src="/assets/aerial_1.png" alt="Me">
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/aerial_1.png" alt="Me">
 </center>
 
 ### 2. Automation of Glass Fragmentation Testing

@@ -16,14 +16,33 @@ permalink: /activities
 </center>
 
 ## Design & Photoshop
-#### TamuITE
-*Webmaster*
-#### CEA Fest
-*Design Coordinator*
+#### TamuITE - Webmaster
+As the part of TamuITE group, I manage the website of [TamuITE](http://texite.org/tamu/) along side creating posters for technical workshops and general meetings. I also manage the Facebook and Twitter handle. The most challenging and exciting work was designing the Annual Report.
 
-## Drawings - Google Keep, Adobe Sketch
+<object data="/assets/annual_report_final.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/annual_report_final.pdf">
+        <p>TamuITE Annual report 2019 - <a href="/assets/annual_report_final.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<center>
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/general_meeting.jpg" alt="Me">
+</center>
+
+#### Drawings - Google Keep, Adobe Sketch
+<center>
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/paint1.jpg" alt="Me">
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/paint2.jpg" alt="Me">
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/paint3.jpg" alt="Me">
+</center>
+
+#### CEA Fest - Design & Creatives
+
 
 ## Cycling
 
 #### Lake Bryan
 * 40 Km road trip biking on Highway
+<center>
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/cycle1.jpg" alt="Me">
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/cycle2.jpg" alt="Me">
+</center>

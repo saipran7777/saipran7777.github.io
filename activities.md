@@ -50,7 +50,7 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 ## Cycling
 
 ### Lake Bryan
-* 40 Km Road trip biking along Highway
+* 40 Km Road trip Cycling along Highway
 <center>
 <img class="act_image" class="home" src="/assets/cycle1.jpg" alt="Me">
 <br>

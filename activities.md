@@ -26,7 +26,7 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
     </embed>
 </object>
 <center>
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/general_meeting.jpg" alt="Me">
+<img style="max-width:600px;max-height:400px;" class="home" src="/assets/general_meeting.jpg" alt="Me">
 </center>
 
 #### Drawings - Google Keep, Adobe Sketch

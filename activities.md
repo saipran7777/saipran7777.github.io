@@ -3,7 +3,13 @@ layout: default
 title: Activities
 permalink: /activities
 ---
-
+<style>
+.act_image{
+  max-width:400px;
+  max-height:300px;
+  border: 2px solid black
+}
+</style>
 ## Web and Mobile App Development
 ### Institute Webops & Mobops, IIT Madras
 
@@ -11,8 +17,8 @@ permalink: /activities
 -	Headed a team 8 students that developed “IIT Madras Students App”, which has over 5000 downloads with 4.6 rating
 -	Developed dynamic and flexible backend architecture, and optimized data consumption
 <center>
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/students_app_0.png" alt="Me">
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/students_app_1.png" alt="Me">
+<img class="act_image" src="/assets/students_app_0.png" alt="Me">
+<img class="act_image" class="home" src="/assets/students_app_1.png" alt="Me">
 </center>
 
 ## Design & Photoshop
@@ -27,14 +33,14 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
     </embed>
 </object>
 <center>
-<img style="max-width:600px;max-height:400px;" class="home" src="/assets/general_meeting.jpg" alt="Me">
+<img class="act_image" class="home" src="/assets/general_meeting.jpg" alt="Me">
 </center>
 
 ### Drawings - Google Keep, Adobe Sketch
 <center>
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/paint1.jpg" alt="Me">
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/paint2.jpg" alt="Me">
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/paint3.jpg" alt="Me">
+<img class="act_image" class="home" src="/assets/paint1.jpg" alt="Me">
+<img class="act_image" class="home" src="/assets/paint2.jpg" alt="Me">
+<img class="act_image" class="home" src="/assets/paint3.jpg" alt="Me">
 </center>
 
 ### CEA Fest
@@ -44,8 +50,9 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 ## Cycling
 
 ### Lake Bryan
-* 40 Km road trip biking on Highway
+* 40 Km Road trip biking along Highway
 <center>
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/cycle1.jpg" alt="Me">
-<img style="max-width:400px;max-height:300px;" class="home" src="/assets/cycle2.jpg" alt="Me">
+<img class="act_image" class="home" src="/assets/cycle1.jpg" alt="Me">
+<br>
+<img class="act_image" class="home" src="/assets/cycle2.jpg" alt="Me">
 </center>

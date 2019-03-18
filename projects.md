@@ -9,12 +9,20 @@ permalink: /projects
 ### Autodrive Challenge
 *Guide - Dr. Alireza Talebpour*
 - Currently working on parking line detection for Autonomous vehicles
+- Here are some snapshots of my algorithms
+<center>
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/ref_park_image_1.jpg" alt="Me">
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/result_line_1.jpg" alt="Me">
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/result_label_1.jpg" alt="Me">
+<br><br>
+<img style="max-width:500px;max-height:400px;" class="home" src="/assets/result_marked_1.jpg" alt="Me">
+</center>
 
 # Previous works
 ## Research
 
 ### 1. Image Processing Techniques for Traffic Data Extraction from Aerial Imagery
-*Guide – Dr. Lelitha Devi, Co-Guide – Dr. Bhargava Rama Chilukuri*
+  *Guide – Dr. Lelitha Devi, Co-Guide – Dr. Bhargava Rama Chilukuri*
 -	Presented research paper at UMI Symposium – 2017, Hyderabad, India
 -	Compared image processing algorithms on a drone-based video in an Indian Scenario
 -	Otsu thresholding, edge detection, and morphological operations were implemented for counting

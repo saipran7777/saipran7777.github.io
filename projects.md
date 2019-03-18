@@ -38,8 +38,8 @@ permalink: /projects
 -	Automated the process of Glass Fragmentation Testing that involves tedious manual counting by using Image processing techniques
 - Built a prototype with GUI using raspberry pi and pi camera modules
 <center>
-<img style="max-width:200px;max-height:200px;" class="home" src="/assets/glass_0.png" alt="Me">
-<img style="max-width:200px;max-height:200px;" class="home" src="/assets/glass_1.png" alt="Me">
+<img style="max-width:300px;max-height:300px;" class="home" src="/assets/glass_0.png" alt="Me">
+<img style="max-width:300px;max-height:300px;" class="home" src="/assets/glass_1.png" alt="Me">
 </center>
 
 ## Udacity - Self Driving Car Nanodegree
@@ -53,6 +53,6 @@ permalink: /projects
 -	Used CNN based architecture YOLO for better detecting signals in Indian scenario
 - COCO dataset was used for pretrained weights for signals. The dataset was augmented using signals in Indian scenario and transfer learning was used to retrain the weights
 <center>
-<img style="max-width:200px;max-height:200px;" class="home" src="/assets/signal_0.png" alt="Me"> &nbsp;
-<img style="max-width:200px;max-height:200px;" class="home" src="/assets/signal_1.png" alt="Me">
+<img style="max-width:300px;max-height:200px;" class="home" src="/assets/signal_0.png" alt="Me"> &nbsp;
+<img style="max-width:300px;max-height:200px;" class="home" src="/assets/signal_1.png" alt="Me">
 </center>

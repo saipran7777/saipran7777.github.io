@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Howdy! I am Praneeth. I am Graduate Assistant Researcher at Texas A&M University. This is my second semester at A&M and am excited to explore the field of autonomous vehicles.
+Howdy! I am Praneeth. I am Graduate Assistant Researcher at Texas A&M University. This is my third semester at A&M and am excited to explore the field of autonomous vehicles.
 
 <figure>
 <img class="home" src="/assets/pro_pic1.jpg" alt="Me">

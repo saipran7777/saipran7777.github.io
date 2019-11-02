@@ -27,11 +27,11 @@ permalink: /activities
 *( Webmaster & Publicist )* <br>
 As the part of TamuITE group, I manage the website of [TamuITE](http://texite.org/tamu/) along side creating posters for technical workshops and general meetings. I also manage the Facebook and Twitter handle. The most challenging and exciting work was designing the Annual Report.
 
-<object data="/assets/annual_report_final.pdf" type="application/pdf" width="700px" height="700px">
+<!-- <object data="/assets/annual_report_final.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/annual_report_final.pdf">
         <p>TamuITE Annual report 2019 - <a href="/assets/annual_report_final.pdf">Download PDF</a>.</p>
     </embed>
-</object>
+</object> -->
 <center>
 <img class="act_image" src="/assets/general_meeting.jpg" alt="Me">
 </center>

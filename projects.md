@@ -5,6 +5,19 @@ permalink: /projects
 ---
 
 # Current Projects
+### Response of Autonomous Vehicles to Emergency Vehicles (RAVEV)
+*Guide - Dr. Sivakumar Rathinam*
+- Prepared image and sound datasets for emergency vehicles, and trained Keras classifier
+- Integrated detection algorithms with path planning and controls using Robot Operating System (ROS)
+- Conducted experiments on high-speed autonomous vehicle (up to 70 mph) to avoid obstacles, and respond to emergency vehicles (EV) in real-time
+- Presented research poster at Spring TexITE meeting - 2019, San Antonio, Texas
+
+<iframe width="420" height="315" alt ="High Speed Lane Change"
+src="https://drive.google.com/open?id=1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm">
+</iframe>
+<iframe width="420" height="315" alt ="High Speed Lane Change"
+src="https://drive.google.com/open?id=1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF">
+</iframe>
 
 ### Autodrive Challenge
 *Guide - Dr. Alireza Talebpour*

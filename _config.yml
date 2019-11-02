@@ -4,5 +4,5 @@ email: devunurisaipraneeth@gmail.com
 github_username: saipran7777
 linkedin_username: devunuri-sai-praneeth-0b1987b8
 permalink: /blog/:year/:month/:day/:title
-markdown: bootstrap3
+markdown: kramdown
 facebook_username: praneethDevunuri

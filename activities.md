@@ -10,19 +10,8 @@ permalink: /activities
   border: 2px solid black
 }
 </style>
-## Web and Mobile App Development
-### Institute Webops & Mobops, IIT Madras
-
-*( Head & Mentor )* <br>
--	Headed a team 8 students that developed “IIT Madras Students App”, which has over 5000 downloads with 4.6 rating
--	Developed dynamic and flexible backend architecture, and optimized data consumption
-<center>
-<img class="act_image" src="/assets/students_app_0.png" alt="Me">
-<img class="act_image" src="/assets/students_app_1.png" alt="Me">
-</center>
-
-## Design & Photoshop
-### TamuITE
+## Position of Responsibility
+### Texas A & M University Institute of Transportation Engineers Student Chapter (TamuITE)
 
 *( Webmaster & Publicist )* <br>
 As the part of TamuITE group, I manage the website of [TamuITE](http://texite.org/tamu/) along side creating posters for technical workshops and general meetings. I also manage the Facebook and Twitter handle. The most challenging and exciting work was designing the Annual Report.
@@ -36,6 +25,43 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 <img class="act_image" src="/assets/general_meeting.jpg" alt="Me">
 </center>
 
+
+### Institute Webops & Mobops, IIT Madras
+
+*( Head & Mentor )* <br>
+-	Headed a team 8 students that developed “IIT Madras Students App”, which has over 5000 downloads with 4.6 rating
+-	Developed dynamic and flexible backend architecture, and optimized data consumption
+
+<center>
+<img class="act_image" src="/assets/students_app_0.png" alt="Me">
+<img class="act_image" src="/assets/students_app_1.png" alt="Me">
+</center>
+
+
+
+## Competitions
+### Autodrive Challenge
+*Guide - Dr. Alireza Talebpour*
+- Currently working towards Year 3 of the competition as Perception Mentor.
+- Used an ensemble of Image processing algorithms to detect parking spots for Autonomous vehicles. Some snapshots of my algorithms are below.
+- Presented social responsibility report portraying challenges for Autonomous Vehicles with regards to human-vehicle interaction, ethical issues, costs, and societal acceptance in future
+- Secured 3rd in the Year 2 of competition consisting of various Static and Dynamic events  
+
+<center>
+<img style="max-width:600px;max-height:400px;" class="home" src="/assets/ref_park_image_1.jpg" alt="Me">
+<br><br>
+<img style="max-width:500px;max-height:400px;" class="home" src="/assets/result_marked_1.jpg" alt="Me">
+</center>
+
+### UC Berkeley Smart Village Challenge
+
+### Aggies Invent
+## Design & Photoshop
+### CEA Fest
+*( Design & Creatives )* <br>
+
+
+## Hobbies
 ### Drawings - Google Keep, Adobe Sketch
 <center>
 <img class="act_image" src="/assets/paint1.jpg" alt="Me">
@@ -43,14 +69,7 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 <img class="act_image" src="/assets/paint3.jpg" alt="Me">
 </center>
 
-### CEA Fest
-*( Design & Creatives )* <br>
-
-
-## Cycling
-
-### Lake Bryan
-* 40 Km Road trip biking along Highway
+### Cycling
 <center>
 <img class="act_image" src="/assets/cycle1.jpg" alt="Me">
 <br>

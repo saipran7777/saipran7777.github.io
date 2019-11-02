@@ -3,13 +3,11 @@ layout: default
 ---
 
 
-Howdy! I am Praneeth. I am Graduate Assistant Researcher at Texas A&M University. This is my third semester at A&M and am excited to explore the field of autonomous vehicles.
+Howdy! I am Praneeth and welcome to my website. I am Graduate Assistant Researcher at Texas A&M University, pursuing Master of Science in Transportation Engineering. I received my Bachelors Degree in Civil Engineering at Indian Institute of Technology, Madras [(IIT Madras)](http://www.iitm.ac.in/). My works involves studying the implications and possible consequences of connected and autonomous vehicles to society. Besides, I develop algorithms/tools that assist vehicles to drive autonomously.
 
 <figure>
 <img class="home" src="/assets/pro_pic1.jpg" alt="Me">
 </figure>
-
-I am a graduate student at Texas A & M University [(TAMU)](https://www.tamu.edu), pursuing Master of Science in Transportation Engineering. I received my Bachelors Degree in Civil Engineering at Indian Institute of Technology, Madras [(IIT Madras)](http://www.iitm.ac.in/).
 
 ## Research Interests
 

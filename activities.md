@@ -10,8 +10,9 @@ permalink: /activities
   border: 1px solid black
 }
 </style>
-## Position of Responsibility
-### Texas A & M University Institute of Transportation Engineers Student Chapter (TamuITE)
+---
+# Position of Responsibility
+## **Texas A & M University Institute of Transportation Engineers Student Chapter (TamuITE)**
 
 *( Webmaster & Publicist )* <br>
 As the part of TamuITE group, I manage the website of [TamuITE](http://texite.org/tamu/) along side creating posters for technical workshops and general meetings. I also manage the Facebook and Twitter handle. The most challenging and exciting work was designing the Annual Report.
@@ -23,10 +24,11 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 </object> -->
 <center>
 <img class="act_image" src="/assets/general_meeting.jpg" alt="Me">
+&nbsp;&nbsp;
+<img class="act_image" src="/assets/annual_report.png" alt="Me">
 </center>
 
-
-### Institute Webops & Mobops, IIT Madras
+## **Institute Webops & Mobops, IIT Madras**
 
 *( Head & Mentor )* <br>
 -	Headed a team 8 students that developed “IIT Madras Students App”, which has over 5000 downloads with 4.6 rating
@@ -34,13 +36,13 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img class="act_image" src="/assets/students_app_0.png" alt="Me">
+&nbsp;&nbsp;
 <img class="act_image" src="/assets/students_app_1.png" alt="Me">
 </center>
 
-
-
-## Competitions
-### Autodrive Challenge
+---
+# Competitions
+## **Autodrive Challenge**
 *Guide - Dr. Alireza Talebpour*
 - Currently working towards Year 3 of the competition as Perception Mentor.
 - Used an ensemble of Image processing algorithms to detect parking spots for Autonomous vehicles. Some snapshots of my algorithms are below.
@@ -49,7 +51,7 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img style="max-width:600px;max-height:400px;" class="home" src="/assets/ref_park_image_1.jpg" alt="Me">
-
+&nbsp;&nbsp;
 <img style="max-width:500px;max-height:400px;" class="home" src="/assets/result_marked_1.jpg" alt="Me">
 </center>
 
@@ -57,37 +59,44 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 ### Aggies Invent -->
 
-## Design & Photoshop
-### CEA Fest
+---
+# Design & Photoshop
+
+## **CEA Fest**
 *( Design & Creatives )* <br>
 
-
-## Hobbies
-### Drawings - Google Keep, Adobe Sketch
+---
+# Hobbies
+## **Drawings - Google Keep, Adobe Sketch**
 <center>
 <img class="act_image" src="/assets/paint1.jpg" alt="Me">
+&nbsp;&nbsp;
 <img class="act_image" src="/assets/paint2.jpg" alt="Me">
+&nbsp;&nbsp;
 <img class="act_image" src="/assets/paint3.jpg" alt="Me">
 </center>
 
-### Aerial Photography
+## **Aerial Photography**
 
 <center>
 <img class="act_image" src="/assets/drone_1.png" alt="Me">
+&nbsp;&nbsp;
 <img class="act_image" src="/assets/drone_2.jpg" alt="Me">
 </center>
 
 
-### Cycling
+## **Cycling**
 
 <center>
 <img class="act_image" src="/assets/cycle1.jpg" alt="Me">
+&nbsp;&nbsp;
 <img class="act_image" src="/assets/cycle2.jpg" alt="Me">
 </center>
 
-### Trekking/Camping
+## **Trekking/Camping**
 
 <center>
 <img class="act_image" src="/assets/trek_1.jpg" alt="Me">
+&nbsp;&nbsp;
 <img class="act_image" src="/assets/camp_1.jpg" alt="Me">
 </center>

@@ -46,10 +46,8 @@ permalink: /projects
 - Presented research poster at Spring TexITE meeting - 2019, San Antonio, Texas
 
 <center>
-<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" max-width="400" max-height="400">
-</iframe>
-<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" max-width="400" max-height="400" alt ="High Speed Lane Change">
-</iframe>
+<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" max-width="500" max-height="500"></iframe>
+<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" max-width="500" max-height="500" alt ="High Speed Lane Change"></iframe>
 </center>
 
 ### **Image Processing Techniques for Traffic Data Extraction from Aerial Imagery**

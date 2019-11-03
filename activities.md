@@ -5,9 +5,9 @@ permalink: /activities
 ---
 <style>
 .act_image {
-  max-width:400px;
+  max-width:350px;
   max-height:350px;
-  border: 2px solid black
+  border: 1px solid black
 }
 </style>
 ## Position of Responsibility
@@ -74,7 +74,6 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img class="act_image" src="/assets/drone_1.png" alt="Me">
-<br><br>
 <img class="act_image" src="/assets/drone_2.jpg" alt="Me">
 </center>
 
@@ -83,7 +82,6 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img class="act_image" src="/assets/cycle1.jpg" alt="Me">
-<br><br>
 <img class="act_image" src="/assets/cycle2.jpg" alt="Me">
 </center>
 
@@ -91,6 +89,5 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img class="act_image" src="/assets/trek_1.jpg" alt="Me">
-<br><br>
 <img class="act_image" src="/assets/camp_1.jpg" alt="Me">
 </center>

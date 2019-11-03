@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-# Current Projects
+# Current Projects 
 
 <!-- ### Reinforcement Learning for Envy-free and Pareto Efficient Traffic Signal
 *Guide - Dr. Alireza Talebpour*
@@ -20,7 +20,10 @@ permalink: /projects
 
 ### Vehicle Trajectory Data Collection Using Aerial Videography
 - Proposed a novel architecture to collect vehicle trajectory data for an extended period on freeways and arterials
-- Preparing High Definition(HD) dataset for traffic data analysis and vehicle detection applications. 
+- Preparing High Definition(HD) dataset for traffic data analysis and vehicle detection applications.
+<center>
+<img style="max-width:400px;max-height:300px;" class="home" src="/assets/dtraffic_1.jpg" alt="Me">
+</center>
 
 # Previous works
 ## Research

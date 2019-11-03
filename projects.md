@@ -6,11 +6,11 @@ permalink: /projects
 
 # Current Projects
 
-### Reinforcement Learning for Envy-free and Pareto Efficient Traffic Signal
+<!-- ### Reinforcement Learning for Envy-free and Pareto Efficient Traffic Signal
 *Guide - Dr. Alireza Talebpour*
 - Integrated Spatial-CNN with image annotation tool to generate lane line predictions for all frames in video
 - Retrained the VGG + SCNN model on own dataset annotation using the tool built
-- Identified lane attributes such as color and type automatically to reduce repetitive work
+- Identified lane attributes such as color and type automatically to reduce repetitive work -->
 
 ### Semi-Automated Image Annotation Tool
 *Guide - Dr. Sivakumar Rathinam*
@@ -18,7 +18,9 @@ permalink: /projects
 - Retrained the VGG + SCNN model on own dataset annotation using the tool built
 - Identified lane attributes such as color and type automatically to reduce repetitive work
 
-
+### Vehicle Trajectory Data Collection Using Aerial Videography
+- Proposed a novel architecture to collect vehicle trajectory data for an extended period on freeways and arterials
+- Preparing High Definition(HD) dataset for traffic data analysis and vehicle detection applications. 
 
 # Previous works
 ## Research
@@ -41,7 +43,10 @@ permalink: /projects
 - Conducted experiments on high-speed autonomous vehicle (up to 70 mph) to avoid obstacles, and respond to emergency vehicles (EV) in real-time
 - Presented research poster at Spring TexITE meeting - 2019, San Antonio, Texas
 
-<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" width="640" height="480" alt ="High Speed Lane Change"></iframe>
+<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" width="640" height="480">
+</iframe>
+<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" width="640" height="480" alt ="High Speed Lane Change">
+</iframe>
 
 ### Image Processing Techniques for Traffic Data Extraction from Aerial Imagery
   *Guide – Dr. Lelitha Devi, Co-Guide – Dr. Bhargava Rama Chilukuri*
@@ -64,11 +69,11 @@ permalink: /projects
 <img style="max-width:300px;max-height:300px;" class="home" src="/assets/glass_1.png" alt="Me">
 </center>
 
-## Udacity - Self Driving Car Nanodegree
+<!-- ## Udacity - Self Driving Car Nanodegree
 ### Lane Lines detection
  ##content here##
 ### Vehicle detection
- ##content here##
+ ##content here## -->
 
 ## Course & Other Projects
 ### Traffic Signal Detection Using Image Processing

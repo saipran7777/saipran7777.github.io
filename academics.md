@@ -20,7 +20,8 @@ Graduation : 2018
 
 
 #### Transportation/Civil Engineering (Major)
-
+- Reinforcement Learning
+- Architecture for Autonomous Vehicles
 - Traffic Engineering: Characteristics
 - Engineering & Planning Urban Transportation
 - Computer Applications in Traffic and Highway Engineering

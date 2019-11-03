@@ -6,7 +6,7 @@ permalink: /activities
 <style>
 .act_image {
   max-width:400px;
-  max-height:300px;
+  max-height:350px;
   border: 2px solid black
 }
 </style>
@@ -49,13 +49,14 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img style="max-width:600px;max-height:400px;" class="home" src="/assets/ref_park_image_1.jpg" alt="Me">
-<br><br>
+
 <img style="max-width:500px;max-height:400px;" class="home" src="/assets/result_marked_1.jpg" alt="Me">
 </center>
 
-### UC Berkeley Smart Village Challenge
+<!-- ### UC Berkeley Smart Village Challenge
 
-### Aggies Invent
+### Aggies Invent -->
+
 ## Design & Photoshop
 ### CEA Fest
 *( Design & Creatives )* <br>
@@ -69,9 +70,27 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 <img class="act_image" src="/assets/paint3.jpg" alt="Me">
 </center>
 
+### Aerial Photography
+
+<center>
+<img class="act_image" src="/assets/drone_1.png" alt="Me">
+<br><br>
+<img class="act_image" src="/assets/drone_2.jpg" alt="Me">
+</center>
+
+
 ### Cycling
+
 <center>
 <img class="act_image" src="/assets/cycle1.jpg" alt="Me">
-<br>
+<br><br>
 <img class="act_image" src="/assets/cycle2.jpg" alt="Me">
+</center>
+
+### Trekking/Camping
+
+<center>
+<img class="act_image" src="/assets/trek_1.jpg" alt="Me">
+<br><br>
+<img class="act_image" src="/assets/camp_1.jpg" alt="Me">
 </center>

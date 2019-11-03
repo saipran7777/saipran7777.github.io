@@ -7,7 +7,8 @@ permalink: /activities
 .act_image {
   max-width:350px;
   max-height:350px;
-  border: 1px solid black
+  border: 1px solid black;
+  margin: 5px 10px 10px 5px;
 }
 </style>
 ---
@@ -24,7 +25,6 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 </object> -->
 <center>
 <img class="act_image" src="/assets/general_meeting.jpg" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/annual_report.png" alt="Me">
 </center>
 
@@ -36,14 +36,13 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img class="act_image" src="/assets/students_app_0.png" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/students_app_1.png" alt="Me">
 </center>
 
 ---
 # Competitions
 ## **Autodrive Challenge**
-*Guide - Dr. Alireza Talebpour*
+*(Perception Mentor) Guide - Dr. Alireza Talebpour*
 - Currently working towards Year 3 of the competition as Perception Mentor.
 - Used an ensemble of Image processing algorithms to detect parking spots for Autonomous vehicles. Some snapshots of my algorithms are below.
 - Presented social responsibility report portraying challenges for Autonomous Vehicles with regards to human-vehicle interaction, ethical issues, costs, and societal acceptance in future
@@ -51,7 +50,6 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 
 <center>
 <img style="max-width:600px;max-height:400px;" class="home" src="/assets/ref_park_image_1.jpg" alt="Me">
-&nbsp;&nbsp;
 <img style="max-width:500px;max-height:400px;" class="home" src="/assets/result_marked_1.jpg" alt="Me">
 </center>
 
@@ -66,18 +64,13 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 *( Design & Creatives )* <br>
 <center>
 <img class="act_image" src="/assets/cea1.jpg" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/cea5.jpg" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/cea6.jpg" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/cea7.jpg" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/cea2.jpg" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/cea4.jpg" alt="Me">
-&nbsp;&nbsp;
 </center>
+
 ---
 # Hobbies
 ## **Drawings - Google Keep, Adobe Sketch**

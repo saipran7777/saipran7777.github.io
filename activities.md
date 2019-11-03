@@ -65,12 +65,6 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 ## **CEA Fest**
 *( Design & Creatives )* <br>
 <center>
-<img class="act_image" src="/assets/cea2.jpg" alt="Me">
-&nbsp;&nbsp;
-<img class="act_image" src="/assets/cea3.jpg" alt="Me">
-&nbsp;&nbsp;
-<img class="act_image" src="/assets/cea4.jpg" alt="Me">
-&nbsp;&nbsp;
 <img class="act_image" src="/assets/cea1.jpg" alt="Me">
 &nbsp;&nbsp;
 <img class="act_image" src="/assets/cea5.jpg" alt="Me">
@@ -78,6 +72,11 @@ As the part of TamuITE group, I manage the website of [TamuITE](http://texite.or
 <img class="act_image" src="/assets/cea6.jpg" alt="Me">
 &nbsp;&nbsp;
 <img class="act_image" src="/assets/cea7.jpg" alt="Me">
+&nbsp;&nbsp;
+<img class="act_image" src="/assets/cea2.jpg" alt="Me">
+&nbsp;&nbsp;
+<img class="act_image" src="/assets/cea4.jpg" alt="Me">
+&nbsp;&nbsp;
 </center>
 ---
 # Hobbies

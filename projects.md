@@ -45,10 +45,12 @@ permalink: /projects
 - Conducted experiments on high-speed autonomous vehicle (up to 70 mph) to avoid obstacles, and respond to emergency vehicles (EV) in real-time
 - Presented research poster at Spring TexITE meeting - 2019, San Antonio, Texas
 
-<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" width="640" height="480">
+<center>
+<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" max-width="400" max-height="400">
 </iframe>
-<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" width="640" height="480" alt ="High Speed Lane Change">
+<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" max-width="400" max-height="400" alt ="High Speed Lane Change">
 </iframe>
+</center>
 
 ### **Image Processing Techniques for Traffic Data Extraction from Aerial Imagery**
   *Guide – Dr. Lelitha Devi, Co-Guide – Dr. Bhargava Rama Chilukuri*

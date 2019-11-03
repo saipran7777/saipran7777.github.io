@@ -16,7 +16,7 @@ permalink: /activities
 ## **TAMU Institute of Transportation Engineers Student Chapter (TamuITE)**
 
 *( Webmaster & Publicist )* <br>
-As the part of Texas A&M ITE student group, I manage the website of [TamuITE](http://texite.org/tamu/) along side creating posters for technical workshops and general meetings. I also manage the Facebook and Twitter handle. The most challenging and exciting work was designing the Annual Report.
+- As the part of Texas A&M ITE student group, I manage the website of [TamuITE](http://texite.org/tamu/) along side creating posters for technical workshops and general meetings. I also manage the Facebook and Twitter handle. The most challenging and exciting work was designing the Annual Report.
 
 <!-- <object data="/assets/annual_report_final.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/annual_report_final.pdf">

@@ -54,9 +54,9 @@ permalink: /projects
 - Presented research poster at Spring TexITE meeting - 2019, San Antonio, Texas
 
 <center>
-<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" width="480" height="360">
+<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" class="act_image">
 </iframe>
-<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" width="480" height="360" alt ="High Speed Lane Change">
+<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" class="act_image" alt ="High Speed Lane Change">
 </iframe>
 </center>
 

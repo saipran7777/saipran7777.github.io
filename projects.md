@@ -60,9 +60,9 @@ permalink: /projects
 - Presented research poster at Spring TexITE meeting - 2019, San Antonio, Texas
 
 <center>
-<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" class="act_drive" alt ="Emergency Vehicle Detection">
+<iframe src="https://drive.google.com/file/d/1Dq9AtOaN3xnNWAslJDCy0RwWLR2uuqXm/preview" class="act_drive" alt ="Emergency Vehicle Detection" allowfullscreen>
 </iframe>
-<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" class="act_drive" alt ="High Speed Lane Change">
+<iframe src="https://drive.google.com/file/d/1RqIuB4uZx4tks1MXla39uPG8NJK8AzDF/preview" class="act_drive" alt ="High Speed Lane Change" allowfullscreen>
 </iframe>
 </center>
 

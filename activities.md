@@ -49,8 +49,10 @@ permalink: /activities
 - Secured 3rd in the Year 2 of competition consisting of various Static and Dynamic events  
 
 <center>
-<img style="max-width:600px;max-height:400px;" class="home" src="/assets/ref_park_image_1.jpg" alt="Me">
+<img class="act_image" src="/assets/autodrive_2.jpg" alt="Me">
+<img class="act_image" src="/assets/autodrive_1.jpg" alt="Me">
 <img style="max-width:500px;max-height:400px;" class="home" src="/assets/result_marked_1.jpg" alt="Me">
+
 </center>
 
 <!-- ### UC Berkeley Smart Village Challenge

@@ -99,7 +99,7 @@ permalink: /projects
 
 ### **Solving Maze Puzzle Using Image Processing**
 - Since childhood, I was interested in solving puzzles, especially the maze puzzles. It so struck me one day that I could solve this puzzle using skills I have
-- The idea was to split the image into portions that were disjoint(had no connection). I tried various morphological techniques using the OpenCV library and graph search algorithms to solve. A sample result is displayed here in which the maze is split into two portions(green and dark pink).
+- The idea was to split the image into portions that were disjoint(have no connection). I tried various morphological techniques using the OpenCV library and graph search algorithms to solve. A sample result is displayed here in which the maze is split into two portions(green and dark pink).
 - P.S It only works for certain set of maze puzzles.
 
 <center>

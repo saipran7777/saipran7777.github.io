@@ -16,6 +16,20 @@ Minor : Management Studies <br>
 CGPA: 8.44 / 10 <br>
 Graduation : 2018
 
+# Publications/ Presentations
+- **Devunuri**; Jhamb; Burris; "Examining cost aspects of shared autonomous vehicles (SAV) as mobility as a service (MaaS)", Accepted for presentation at Transportation Research Board 2020
+- Khajeh Hosseini; **Devunuri**; Talebpour; Hamdar;  "Vehicle Trajectory Data Collection Using Aerial Videography", Accepted for presentation at Transportation Research Board 2020
+- A Nayak; **Devunuri**; Liu; and Rathinam; "Response of Autonomous Vehicles to Emergency Vehicles (RAVEV)", 4th Annual Texas A&M Transportation Technology Conference on connected and automated vehicle (CAV) research
+- **Devunuri**; Vanajakshi, Lelitha; Chilukuri, Bhargava; "Image Processing Techniques for Traffic Data Extraction from Aerial Imagery", Urban Mobility India Symposium – 2017, Hyderabad, India
+- Chilamkurthy; **Devunuri**; "Automation of Glass Fragmentation Analysis Using Image Processing",  International Conference on Civil Engineering (ICCEN 2017), Australia
+
+
+# Honors
+- Institute for Transportation Engineers District Fellowship, Texas District ITE, 2019
+- Civil Engineering General Departmental Fellowship, Texas A\&M University, 2019
+- Theodore Edward Ziller Fellowship, Zachry Dept of Civil Engineering, Texas A\&M University, 2018
+- Best Student With All Round Performance}, Civil Engineering Association, IIT Madras, 2018
+
 # Coursework
 
 

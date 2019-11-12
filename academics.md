@@ -26,8 +26,8 @@ Graduation : 2018
 
 # Honors
 - Institute for Transportation Engineers District Fellowship, Texas District ITE, 2019
-- Civil Engineering General Departmental Fellowship, Texas A\&M University, 2019
-- Theodore Edward Ziller Fellowship, Zachry Dept of Civil Engineering, Texas A\&M University, 2018
+- Civil Engineering General Departmental Fellowship, Texas A&M University, 2019
+- Theodore Edward Ziller Fellowship, Zachry Dept of Civil Engineering, Texas A&M University, 2018
 - Best Student With All Round Performance}, Civil Engineering Association, IIT Madras, 2018
 
 # Coursework

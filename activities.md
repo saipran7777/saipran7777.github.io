@@ -85,7 +85,7 @@ permalink: /activities
 </center>
 
 ## **Aerial Photography**
-
+ I am an experienced drone operator with over 30hrs of flying in manual and assisted manual modes including custom built drones. I usually fly drones for research purposes. Occasionally, I fly drones as a hobby or for recreational purpose to shoot photos or videos.
 <center>
 <img class="act_image" src="/assets/drone_1.png" alt="Me">
 &nbsp;&nbsp;

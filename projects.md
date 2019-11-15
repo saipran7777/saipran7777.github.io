@@ -36,6 +36,7 @@ permalink: /projects
 - Proposed a novel architecture to collect vehicle trajectory data for an extended period on freeways and arterials
 - Preparing High Definition(HD) dataset for traffic data analysis and vehicle detection applications.
 <center>
+<img class="act_image" src="/assets/data_equip1.jpg" alt="Me">
 <img class="act_image" src="/assets/dtraffic_1.jpg" alt="Me">
 </center>
 ---

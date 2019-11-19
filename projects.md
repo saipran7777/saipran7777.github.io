@@ -55,7 +55,7 @@ permalink: /projects
 
 ### **Response of Autonomous Vehicles to Emergency Vehicles (RAVEV)**
 *Guide - Dr. Sivakumar Rathinam*
-- Prepared image and sound datasets for emergency vehicles, and trained Keras classifier
+- Prepared image and sound datasets for emergency vehicles, and trained a NN classifier using Keras
 - Integrated detection algorithms with path planning and controls using Robot Operating System (ROS)
 - Conducted experiments on high-speed autonomous vehicle (up to 70 mph) to avoid obstacles, and respond to emergency vehicles (EV) in real-time
 - Presented research poster at Spring TexITE meeting - 2019, San Antonio, Texas

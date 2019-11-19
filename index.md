@@ -14,7 +14,6 @@ Howdy! I am Praneeth( &epsilon; -guy) and welcome to my website. I am Graduate A
 <center>
 <img class="act_image" src="/assets/pro_pic1.jpg" alt="Me">
 </center>
-![Profile Picture](/assets/pro_pic1.jpg)
 
 I consider myself as a reinforcement learning agent trying to maximize the expected cumulative reward or be successful. I interact with the real-world and get rewards i.e. learn from failures and success in life.  As for any RL algorithm to learn the optimal policy, both exploration and exploitation are needed. Since I am in the early stages of life, I love to explore different fields of study, a variety of food, cultures etc. Therefore, I can be viewed as a guy with high Epsilon(&epsilon;) value or the &epsilon;-guy. Being &epsilon;-guy, I believe in inter-disciplinary research and I also make it a habit to learn something new every day which is not necessarily related to my field of study. Anything about Technology or Automation intrigues me and I do my best to develop a basic understanding of it. I believe that there is no one single behavioral policy to become successful in life. When presented with a choice, I try to be &epsilon;-greedy instead of greedy(choosing the current best choice always) and hope that I will converge(be successful) almost surely.
 

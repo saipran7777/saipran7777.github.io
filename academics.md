@@ -32,11 +32,10 @@ Graduation : 2018
 
 # Coursework
 
-
 #### Transportation/Civil Engineering (Major)
-- Reinforcement Learning
-- Architecture for Autonomous Vehicles
+- Transportation Economics
 - Traffic Engineering: Characteristics
+- Traffic Engineering: Operations
 - Engineering & Planning Urban Transportation
 - Computer Applications in Traffic and Highway Engineering
 - Intelligent Transportation Systems
@@ -44,12 +43,18 @@ Graduation : 2018
 - Street & Highway Design
 - Surveying
 
-
-#### Self Driving Car Technology
-
+### Robotics/ Learning
+- Reinforcement Learning
+- Architecture for Autonomous Vehicles
+- Robotic Perception
 - [Udacity Self Driving Car Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
   - Computer Vision and Deep Learning
   - Sensor Fusion, Localization, and Control
+
+#### Mathematics  
+- Probability, Statistics and Stochastic Processes
+- Differential Equations
+- Calculus - Function of Single and Several Variables
 
 #### Management Studies (Minor)
 
@@ -59,17 +64,12 @@ Graduation : 2018
 
 #### Algorithms & Computing
 
-- Computer Methods in Civil Engineering
-- Construction Software Lab
-- Computational Engineering
+  - Computer Methods in Civil Engineering
+  - Construction Software Lab
+  - Computational Engineering
 
-#### Mathematics
-
-- Probability, Statistics and Stochastic Processes
-- Differential Equations
-- Calculus - Function of Single and Several Variables
 
 #### Other Courses
-- Discovering Creativity
-- Principles of Economics
-- Technology and Public Policy
+  - Discovering Creativity
+  - Principles of Economics
+  - Technology and Public Policy
